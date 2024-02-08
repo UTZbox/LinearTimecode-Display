@@ -1,6 +1,8 @@
 # LinearTimecode-Decoder with 7 Segment Display for Teensy 4.x
+
 LTC decoder for Teensy Audio Library
-Display the TimeCode with an 7-Segment-LED (MAX7219)
+
+Display the TimeCode with an 7-Segment-LED (MAX7219), 
 USB and Audio-Line-Input from the Teensy Audio Board
 
 see: https://forum.pjrc.com/threads/41584-Audio-Library-for-Linear-Timecode-(LTC)
